@@ -1,0 +1,127 @@
+body {
+  background-image: url(./files/cris.png);
+  background-position: center;
+  background-size: cover;
+  margin: auto;
+  text-align: center;
+  padding: 0px;
+  max-width: 100%;
+  height: auto;
+}
+
+#lang {
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+#langopt {
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+#welcome {
+  font-family: monospace;
+  color: #ebebeb;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-color: #ff7d7d;
+  font-size: 50px;
+}
+
+#facts {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 100;
+  font-size: 30px;
+  color: #ebebeb;
+}
+
+#details {
+  padding: 20px;
+  background-color: #00000088;
+  overflow-wrap: break-word;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 200;
+  margin-left: 100px;
+  margin-right: 100px;
+  word-break: normal;
+  word-spacing: 1px;
+  font-size: 20px;
+  color: #f7b6b6;
+  border: 2px solid;
+  border-radius: 75px 75px 75px 1px;
+}
+
+#details1 {
+  padding: 5px;
+}
+
+#socialsnetworks {
+  padding: 10px;
+  margin: auto;
+}
+
+#socials {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 100;
+  font-size: 35px;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-color: #ed6464;
+  color: #ebebeb;
+  text-align: center;
+}
+
+#linkssocial {
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  border-radius: 25px 25px 25px 1px;
+  padding: 5px 10px;
+}
+
+#spotify {
+  color: black;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 25px;
+  background-color: #1db954;
+}
+
+#steam {
+  color: white;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 25px;
+  background-color: #000000;
+}
+
+#bsky {
+  color: black;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 25px;
+  background-color: #208bfe;
+}
+
+#telegram {
+  color: black;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 25px;
+  background-color: #24a1de;
+}
+
+#bskyad {
+  color: black;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 20px;
+  background-image: linear-gradient(to right, #208bfe, #065bb6);
+}
